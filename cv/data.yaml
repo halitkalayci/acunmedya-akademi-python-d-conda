@@ -1,0 +1,7 @@
+path: C:\Users\PC1\Desktop\Projects\Education\Python\acunmedya-akademi-python-d-conda\cv\dataset
+train: images
+val: images
+
+nc: 1
+names:
+  0: plaka
