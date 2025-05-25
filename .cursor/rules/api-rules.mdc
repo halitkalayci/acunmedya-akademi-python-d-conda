@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+API işlemlerinde daima `FastAPI` kütüphanesi kullanılsın.

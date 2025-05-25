@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Bu projedeki bütün derin öğrenme işlemlerini `tensorflow` kütüphanesi ile yap.
+
+
+Bu projedeki bütün numerik işlemleri `numpy` kütüphanesi ile yap.
